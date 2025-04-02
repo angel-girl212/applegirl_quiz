@@ -1,6 +1,9 @@
-# applegirl_quiz
-quiz created for:
-Apple Girl zine (Fall 2023) c: Charlotte Alarie
+Copyright Kyra Meier & Charlotte Alarie (2024)
 
-playable at:
-https://cttlo.github.io/ 
+* All rights and permissions reserved
+
+---------------------------------------------------
+
+**Apple Girl Quiz**, a [SUBMISSION] to Apple Girl (2024), a creative zine by Charlotte Alarie
+
+> playable at https://cttlo.github.io/ 
